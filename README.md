@@ -17,3 +17,7 @@ function sum(num1, num2) {
 edit from github
 
 Refresh again about github today!
+
+##Today 14 July-Local development
+
+1. Open index.html on your browser.
